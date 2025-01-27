@@ -35,7 +35,7 @@ logo: https://avatars.githubusercontent.com/u/9654073?s=400&u=9337cc5310e21fb81f
 
 links_to_prev_next: true
 
-mmistakes:
+jekyll-theme-basically-basic:
   date_format: "%a, %b %-d, %Y"
   social_links:
     - { platform: github, user_url: "https://github.com/rkooyenga/" }
