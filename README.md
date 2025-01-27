@@ -1,4 +1,5 @@
-# testblog
+# welcome
+
 Click Use this template button above for the quickest method of getting started with the Minimal Mistakes Jekyll theme.
 
 Contains basic configuration to get you a site with:
