@@ -6,7 +6,7 @@ kramdown:
  future: true
  jailed: false
  gfm_quirks: paragraph_end
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: deadflowers/jekyll-theme-basically-basic
 plugins:
  - jekyll-remote-theme
   - jekyll-feed
