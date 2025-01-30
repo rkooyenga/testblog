@@ -1,4 +1,15 @@
-# welcome
+# This is a h1 title
+
+## this is an h2
+
+this should be like a p tag 
+
+*is it working?*
+
+```javascript
+let somthing='some code';
+alert(something);
+```
 
 Click Use this template button above for the quickest method of getting started with the Minimal Mistakes Jekyll theme.
 
