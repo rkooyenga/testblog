@@ -73,7 +73,7 @@ jekyll-theme-basically-basic:
 skin: steel
 tagline: a ray kooyenga site
 
-github_edit_url: "https://github.com/rkooyenga/rkooyenga.github.io/blob/master/"
+github_edit_url: "https://github.com/rkooyenga/testblog/blob/master/"
 
 feed:
   posts_limit: 1000
