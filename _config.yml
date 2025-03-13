@@ -9,10 +9,10 @@ kramdown:
 remote_theme: deadflowers/jekyll-theme-basically-basic
 
 lang: en-US
-description: an area for notes and projects
+description: test blog client for remote jekyll theme
 title: ray kooyenga github
 baseurl: "/"
-url: "https://rkooyenga.github.io"
+url: "https://rkooyenga.github.io/testblog"
 logo: https://avatars.githubusercontent.com/u/6174603
 # Site Author
 author: 
