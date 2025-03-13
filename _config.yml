@@ -42,7 +42,10 @@ plugins:
   - jekyll-target-blank
   - jekyll-postfiles
   - jekyll-og-image
-
+  - jekyll-webp 
+  - jekyll-mentions
+  - jekyll-github-chart
+  
 # Footer Links
 footer_links:
   - title: Twitter
